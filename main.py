@@ -1,3 +1,4 @@
+#importing stuff to get GUI working
 from tkinter import *
 from tkinter import ttk
 from PIL import ImageTk,Image
